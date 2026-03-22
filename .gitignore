@@ -12,3 +12,4 @@ venv/
 
 auditor_agent/.env
 .env
+*__pycache__*
